@@ -4188,6 +4188,7 @@ mlnStr_implementationOf_rotatedText = '''
         item, end = self.screen._write(self._position, txt, align, font,
                                               self._pencolor, txt_angle)
 ----
+( if __name__ == "__main__":, def demo2 ):
         tri.write("CAUGHT! ", font=("Arial", 16, "bold"), align="right", txt_angle=-45)
         tri.write("CAUGHT! ", font=("Arial", 16, "bold"), align="right", txt_angle= 45)
         tri.write("CAUGHT! ", font=("Arial", 16, "bold"), align="right", txt_angle=135)
